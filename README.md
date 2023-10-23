@@ -1,1 +1,3 @@
-I'd be happy to check your JavaScript game, but I would need the code or a link to the game in order to review it. Please provide the code or a way to access your game, and I'll be glad to take a look and provide feedback if needed.
+Check out the game 2048. 
+It's my first JavaScript game. 
+Enjoy!
