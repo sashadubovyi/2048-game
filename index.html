@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2048</title>
+    <link rel="shortcut icon" type="image/png" href="./images/2048-logo.png" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="scoreContainer">
+      <h2 id="totalSum">Score: 0</h2>
+      <h2 id="bestScore">Best score: 0</h2>
+    </div>
+
+    <div id="game-board"></div>
+
+    <div id="restartGame">
+      <div class="restart-container">
+        <button id="restartButton">Try again!</button>
+        <p id="restartYourScore">Your Score: 0</p>
+      </div>
+    </div>
+
+    <script type="module" src="./js/game.js"></script>
+  </body>
+</html>
